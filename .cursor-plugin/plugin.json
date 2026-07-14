@@ -1,0 +1,22 @@
+{
+  "name": "read-x-articles",
+  "displayName": "Read X Articles",
+  "version": "1.0.0",
+  "description": "Read X (Twitter) long-form Articles as Markdown via twitter-cli / Agent Reach. Cookie auth; no paid X API.",
+  "author": {
+    "name": "lawmight"
+  },
+  "license": "MIT",
+  "keywords": [
+    "twitter",
+    "x",
+    "articles",
+    "markdown",
+    "twitter-cli",
+    "agent-reach",
+    "research"
+  ],
+  "skills": "skills/",
+  "homepage": "https://github.com/lawmight/read-x-articles",
+  "repository": "https://github.com/lawmight/read-x-articles"
+}
